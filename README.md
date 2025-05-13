@@ -1,6 +1,7 @@
 #Examen Parcial 2 Redes
 **Alumno: Rodrigo Yepes Rubio**<br>
-**NP: 153750**
+**NP: 153750**<br>
+https://github.com/rodrigoyr/RD_Examen-Parcial-2.git<br>
 
 
 ## Contenido de los Archivos del Examen Parcial 2
